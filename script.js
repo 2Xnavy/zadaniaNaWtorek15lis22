@@ -31,6 +31,9 @@ console.log(sumWithInitial);
 
 
 
+const array2 = [1, 2, 3];
+const map1 = array2.map(x => x*x+3);
+console.log(map1);
 /*
 .map(), coś ze strzałkami: [1^2+3, 2^2+3, 3^2+3]
 .reduce()
