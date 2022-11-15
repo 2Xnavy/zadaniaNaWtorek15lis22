@@ -147,7 +147,7 @@ function fibonacci (n){
     }
 }
 
-console.log(recurse(1,5));
+//console.log(recurse(1,5));
 console.log(0.2 + 0.1);
 console.log(fibonacci(5));
 console.log(anagram("siema", "siemb"));
